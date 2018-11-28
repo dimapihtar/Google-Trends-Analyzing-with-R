@@ -1,5 +1,5 @@
 # Google-Trends-Analyzing-with-R
-It`s how to compare popularity of google requests in specific regions and ploting this dependence on region`s map.
+It`s how to compare popularity of google requests in specific regions and show this dependence on region`s map.
 This is one of my practical works. When i was doing this task, i didn`t find this method of analysis google trends with R in the internet.
 So i decided to share my script.
 I compared requests for two football teams FC Barcelona and Real Madrid in Ukraine to show which team is more popular in my country in each region.
